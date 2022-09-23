@@ -1,0 +1,15 @@
+<header class="page-header">
+  <h1>Jungle &raquo; Signup</h1>
+</header>
+<div class="form-center">
+<%= form_for :user, url: '/users', html: { class: "register-form" } do |f| %>
+
+  First Name: <%= f.text_field :name %>
+  Last Name: <%= f.text_field :last_name %>
+  Email: <%= f.text_field :email %>
+  Password: <%= f.password_field :password %>
+  Password Confirmation: <%= f.password_field :password_confirmation %>
+  <%= f.submit "Submit" %>
+
+<% end %>
+</div>
