@@ -3,7 +3,7 @@
 
 
 
-describe('jungle-rails app', () => {
+describe('jungle-rails app home page', () => {
   beforeEach(() => {
     // Cypress starts out with a blank slate for each test
     // so we must tell it to visit our website with the `cy.visit()` command.
