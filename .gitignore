@@ -61,3 +61,4 @@ config/secrets.yml
 
 cypress/support/index.js
 cypress/support/commands.js
+/Users/ryan/lighthouse/jungle-rails/cypress/integration/1-getting-started/todo.spec.js
