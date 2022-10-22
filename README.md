@@ -1,6 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Ruby on Rails.
+
+!["Root page"](https://github.com/rfll/jungle-rails/blob/master/docs/Screen%20Shot%202022-09-29%20at%204.22.05%20PM.png)
+
+!["Product page"](https://github.com/rfll/jungle-rails/blob/master/docs/Screen%20Shot%202022-09-29%20at%204.22.28%20PM.png)
+
+!["Cart page"](https://github.com/rfll/jungle-rails/blob/master/docs/Screen%20Shot%202022-09-29%20at%204.24.10%20PM.png)
 
 ## Setup
 
